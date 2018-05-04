@@ -222,7 +222,7 @@ input, select, textarea {
   color: #555555; }
 
 a {
-  color: #ce1b28; }
+  color: #ce681b; }
 
 strong, b {
   color: #555555; }
@@ -2010,7 +2010,7 @@ ul.icons {
     width: 100%;
     z-index: 1; }
   #banner:after {
-    background: linear-gradient(135deg, #ce1b28 0%, #111111 74%);
+    background: linear-gradient(135deg, #ce681b 0%, #111111 74%);
     content: ' ';
     display: block;
     height: 100%;
@@ -2058,7 +2058,7 @@ ul.icons {
 
 /* CTA */
 #cta {
-  background-color: #ce1b28;
+  background-color: #ce681b;
   color: rgba(255, 255, 255, 0.75);
   background-attachment: fixed;
   background-image: linear-gradient(rgba(206, 27, 40, 0.25), rgba(206, 27, 40, 0.25)), url(../../images/cta01.jpg);
@@ -2110,7 +2110,7 @@ ul.icons {
     #cta .button.primary {
       box-shadow: none;
       background-color: #ffffff;
-      color: #ce1b28 !important; }
+      color: #ce681b !important; }
       #cta input[type="submit"].primary:hover,
       #cta input[type="reset"].primary:hover,
       #cta input[type="button"].primary:hover,
