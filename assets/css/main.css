@@ -2190,13 +2190,13 @@ ul.icons {
   #cta table.alt tbody tr td {
     border-color: rgba(255, 255, 255, 0.25); }
   #cta .highlights .content {
-    background: #ce1b28;
+    background: #ce681b;
     box-shadow: 0px 0px 4px 1px rgba(255, 255, 255, 0.025); }
   #cta .testimonials .content {
-    background: #ce1b28;
+    background: #ce681b;
     box-shadow: 0px 0px 4px 1px rgba(255, 255, 255, 0.025); }
     #cta .testimonials .content .credit strong {
-      color: #ce1b28; }
+      color: #ce681b; }
   #cta .inner {
     position: relative;
     z-index: 3; }
@@ -2212,7 +2212,7 @@ ul.icons {
   #footer input, #footer select, #footer textarea {
     color: #ffffff; }
   #footer a {
-    color: #ce1b28; }
+    color: #ce681b; }
   #footer strong, #footer b {
     color: #ffffff; }
   #footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
@@ -2237,8 +2237,8 @@ ul.icons {
     #footer input[type="button"]:hover,
     #footer button:hover,
     #footer .button:hover {
-      box-shadow: inset 0 0 0 1px #ce1b28;
-      color: #ce1b28 !important; }
+      box-shadow: inset 0 0 0 1px #ce681b;
+      color: #ce681b !important; }
       #footer input[type="submit"]:hover:active,
       #footer input[type="reset"]:hover:active,
       #footer input[type="button"]:hover:active,
@@ -2251,7 +2251,7 @@ ul.icons {
     #footer button.primary,
     #footer .button.primary {
       box-shadow: none;
-      background-color: #ce1b28;
+      background-color: #ce681b;
       color: #ffffff !important; }
       #footer input[type="submit"].primary:hover,
       #footer input[type="reset"].primary:hover,
@@ -2286,8 +2286,8 @@ ul.icons {
     #footer input[type="url"]:focus,
     #footer select:focus,
     #footer textarea:focus {
-      border-color: #ce1b28;
-      box-shadow: 0 0 0 1px #ce1b28; }
+      border-color: #ce681b;
+      box-shadow: 0 0 0 1px #ce681b; }
   #footer select {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='40' height='40' preserveAspectRatio='none' viewBox='0 0 40 40'%3E%3Cpath d='M9.4,12.3l10.4,10.4l10.4-10.4c0.2-0.2,0.5-0.4,0.9-0.4c0.3,0,0.6,0.1,0.9,0.4l3.3,3.3c0.2,0.2,0.4,0.5,0.4,0.9 c0,0.4-0.1,0.6-0.4,0.9L20.7,31.9c-0.2,0.2-0.5,0.4-0.9,0.4c-0.3,0-0.6-0.1-0.9-0.4L4.3,17.3c-0.2-0.2-0.4-0.5-0.4-0.9 c0-0.4,0.1-0.6,0.4-0.9l3.3-3.3c0.2-0.2,0.5-0.4,0.9-0.4S9.1,12.1,9.4,12.3z' fill='rgba(255, 255, 255, 0.25)' /%3E%3C/svg%3E"); }
     #footer select option {
@@ -2302,13 +2302,13 @@ ul.icons {
       border-color: rgba(255, 255, 255, 0.25); }
   #footer input[type="checkbox"]:checked + label:before,
   #footer input[type="radio"]:checked + label:before {
-    background-color: #ce1b28;
-    border-color: #ce1b28;
+    background-color: #ce681b;
+    border-color: #ce681b;
     color: #ffffff; }
   #footer input[type="checkbox"]:focus + label:before,
   #footer input[type="radio"]:focus + label:before {
-    border-color: #ce1b28;
-    box-shadow: 0 0 0 1px #ce1b28; }
+    border-color: #ce681b;
+    box-shadow: 0 0 0 1px #ce681b; }
   #footer ::-webkit-input-placeholder {
     color: rgba(255, 255, 255, 0.4) !important; }
   #footer :-moz-placeholder {
@@ -2338,12 +2338,12 @@ ul.icons {
     background: #111111;
     box-shadow: 0px 0px 4px 1px rgba(255, 255, 255, 0.025); }
     #footer .testimonials .content .credit strong {
-      color: #ce1b28; }
+      color: #ce681b; }
   #footer a {
     color: rgba(255, 255, 255, 0.5);
     text-decoration: none; }
     #footer a:hover {
-      color: #ce1b28; }
+      color: #ce681b; }
   #footer .content {
     display: -moz-flex;
     display: -webkit-flex;
